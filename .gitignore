@@ -1,0 +1,9 @@
+*.csv
+*.exe
+*.7z
+*.zip
+*.ini
+*.pdf
+*.bat
+*.pem
+node_modules
